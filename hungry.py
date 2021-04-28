@@ -4,3 +4,6 @@ if hungry=="yes":
 else:
     print("do your work")
 print("samosa is very good")
+i=0
+for i in range(1,10):
+    print(i)
